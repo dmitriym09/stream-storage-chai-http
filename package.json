@@ -1,0 +1,31 @@
+{
+  "name": "stream-storage-chai-http",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:dbg": "mocha --inspect-brk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitriym09/stream-storage-chai-http.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitriym09/stream-storage-chai-http/issues"
+  },
+  "homepage": "https://github.com/dmitriym09/stream-storage-chai-http#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^6.2.0",
+    "multer": "^1.4.2"
+  },
+  "dependencies": {
+    "stream-storage": "0.0.5"
+  }
+}
