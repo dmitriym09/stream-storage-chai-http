@@ -1,17 +1,26 @@
 {
   "name": "stream-storage-chai-http",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "test:dbg": "mocha --inspect-brk"
   },
+  "keywords": [
+    "memory streams",
+    "streams",
+    "buffer streams",
+    "cache",
+    "chai",
+    "chai-http",
+    "test",
+    "http"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dmitriym09/stream-storage-chai-http.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {

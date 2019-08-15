@@ -1,6 +1,6 @@
 # stream-storage-chai-http
 
-![Version](https://img.shields.io/badge/version-0.0.1-green.svg)
+![Version](https://img.shields.io/badge/version-0.0.2-green.svg)
 ![npm](https://img.shields.io/npm/dy/stream-storage-chai-http)
 
 Simple [stream](https://github.com/dmitriym09/stream-storage) for using with [chai-http](https://github.com/chaijs/chai-http).
@@ -44,3 +44,4 @@ npm run test
 ## versions
 
 - **0.0.1** - init
+- **0.0.2** - tags
